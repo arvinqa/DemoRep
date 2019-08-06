@@ -6,7 +6,7 @@ public class LoginPage {
 		System.out.println("test Login Page");
 	}
 	
-	public void test2(){
+	public void test3(){
 		System.out.println("test Login2 Page");
 	}
 }
