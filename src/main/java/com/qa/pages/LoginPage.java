@@ -17,4 +17,8 @@ public class LoginPage {
 	public void test5(){
 		System.out.println("test Login2 Page");
 	}
+	
+	public void test6(){
+		System.out.println("test Login2 Page");
+	}
 }
